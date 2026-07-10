@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0015-3sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
