@@ -3,12 +3,10 @@ class Solution(object):
         product=1
         for i in nums:
             product *= i
-        print(product)
         if product>0:
-            ans=1
+            return 1 
         elif product<0:
-            ans=-1
+            return -1
         else:
-            ans=0  
-        return ans
+            return 0
         
