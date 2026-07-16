@@ -1,12 +1,24 @@
 class Solution(object):
     def sortColors(self, nums):
-        j=0
-        l=len(nums)
-        while (j<len(nums)):
-            for i in range(l-1):
-                if nums[i]>nums[i+1]:
-                    nums[i+1],nums[i]=nums[i],nums[i+1]
-            j+=1
-            l-=1
+
+        dict1={}
+        for i in nums:
+            if i not in dict1:
+                dict1[i]=1
+
+            else:
+                dict1[i]+=1
+
+
+        sorted_dict=sorted(dict1.items())
+
+        l=[]
+        for a,b in sorted_dict:
+            for i in range(b):
+                l.append(a)
+        nums[:]=l
         return nums
+
+
+
         
