@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
