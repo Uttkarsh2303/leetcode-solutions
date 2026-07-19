@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
