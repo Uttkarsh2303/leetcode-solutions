@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0605-can-place-flowers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
