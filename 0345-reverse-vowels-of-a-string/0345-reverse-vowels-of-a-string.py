@@ -1,19 +1,18 @@
-class Solution(object):
-    def reverseVowels(self, s):
-        q=list(s)
-        Vowels='aeiouAEIOU'
-        vowels=list(Vowels)
-        vs=[]
-        for i in range(0,len(q)):
-            if q[i] in vowels:
-                vs.append(q[i])
-                q[i]='_'
-        vs.reverse()
-        j=0
-        for i in range(0,len(q)):
-            if q[i]=='_':
-                q[i]=vs[j]
-                j+=1
-        t=''.join(q)
-        return t
+class Solution:
+    def reverseVowels(self, s: str) -> str:
         
+        list1=list(s)
+        vowels='aeiouAEIOU'
+        list2=list(vowels)
+        i,j=0,len(list1)-1
+        while i <j:
+            if list1[i] not in list2:
+                i+=1
+            elif list1[j] not in list2:
+                j-=1
+            else:
+                list1[i], list1[j] = list1[j], list1[i]
+                i += 1
+                j -= 1
+        q="".join(list1)
+        return q
