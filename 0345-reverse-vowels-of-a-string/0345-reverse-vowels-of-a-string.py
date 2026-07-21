@@ -14,5 +14,5 @@ class Solution:
                 list1[i], list1[j] = list1[j], list1[i]
                 i += 1
                 j -= 1
-        q="".join(list1)
-        return q
+        return "".join(list1)
+
