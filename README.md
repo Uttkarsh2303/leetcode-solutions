@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
