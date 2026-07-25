@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
