@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3925-concatenate-array-with-reverse](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
