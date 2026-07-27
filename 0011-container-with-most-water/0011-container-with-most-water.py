@@ -1,15 +1,14 @@
-class Solution(object):
-    def maxArea(self, height):
-        left,right= 0,len(height)-1
-        product = (right-left)*min(height[left],height[right])
-        mx= product
-        while left<right:
-            if height[left]<height[right]:
-                left+=1
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        i,j=0,len(height)-1
+        max_volume=0
+        while i<j:
+            smaller_height=min(height[i],height[j])
+            volume=smaller_height*(j-i)
+            if height[i]<height[j]:
+                i+=1
             else:
-             right-=1
-            product = (right - left) * min(height[left], height[right])
-            mx=max(product,mx)
-        return mx
-
-        
+                j-=1
+            max_volume=max(volume,max_volume)
+        return max_volume
+            
