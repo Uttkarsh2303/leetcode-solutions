@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
