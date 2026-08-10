@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
