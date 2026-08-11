@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
 | ------- |
