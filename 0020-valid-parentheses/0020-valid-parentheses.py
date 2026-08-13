@@ -7,7 +7,7 @@ class Solution:
         }
         for char in s:
 
-            if char =='[' or char=='(' or char=='{':
+            if char in '[{(':
                 stack.append(char)
 
             else:
