@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
