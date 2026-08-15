@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
