@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
