@@ -10,10 +10,7 @@ class Solution:
         prev=None
         count=0
         current=head
-        while current is not None:
-            count+=1
-            current=current.next
-        if count==1:
+        if head.next is None:
             return None
         while fast is not None and fast.next is not None:
             prev=slow
