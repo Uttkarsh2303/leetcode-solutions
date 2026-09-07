@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -306,6 +307,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
