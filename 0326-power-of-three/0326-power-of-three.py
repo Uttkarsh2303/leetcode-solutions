@@ -9,4 +9,4 @@ class Solution:
             elif n %2==0:
                 return False
             else :
-                return self.isPowerOfThree(n/3)
+                return self.isPowerOfThree(n//3)
