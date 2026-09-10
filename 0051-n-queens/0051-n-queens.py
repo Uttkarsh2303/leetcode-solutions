@@ -25,7 +25,7 @@ class Solution:
         def backtrack(row):
             if row==n:
                 results.append([''.join(row) for row in board])
-                return board
+                return 
             for col in range(n):
                 if not is_safe(row,col):
                     continue
