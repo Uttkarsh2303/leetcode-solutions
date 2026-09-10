@@ -1,12 +1,13 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans=[]
-        subset=[]
-        def backtrack(start):
-            ans.append(subset[:])
-            for i in range(start,len(nums)):
-                subset.append(nums[i])
-                backtrack(i+1)
-                subset.pop()
-        backtrack(0)
-        return ans
+        results=[]
+        def backtrack(index,path):
+            if index==len(nums):
+                results.append(path[:])
+                return 
+            path.append(nums[index])
+            backtrack(index+1,path)
+            path.pop()
+            backtrack(index+1,path)
+        backtrack(0,[])
+        return results
