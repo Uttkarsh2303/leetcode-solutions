@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0342-power-of-four) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
 |  |
 | ------- |
