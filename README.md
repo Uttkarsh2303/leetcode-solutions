@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -329,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
