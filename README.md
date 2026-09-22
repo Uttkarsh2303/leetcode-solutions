@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,10 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Uttkarsh2303/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
