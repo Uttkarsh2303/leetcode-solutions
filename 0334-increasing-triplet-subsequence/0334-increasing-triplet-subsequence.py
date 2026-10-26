@@ -1,12 +1,12 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        s=float('inf')
-        m=float('inf')
-        for i in nums:
-            if i<=s:
-                s=i
-            elif s<i<=m:
-                m=i
+        first = float('inf')
+        second = float('inf')
+        for num in nums:
+            if num<=first:
+                first=num
+            elif num<=second:
+                second=num
             else:
                 return True
         return False
